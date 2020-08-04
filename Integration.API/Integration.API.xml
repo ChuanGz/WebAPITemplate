@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Integration.API</name>
+    </assembly>
+    <members>
+        <member name="M:Integration.API.Controllers.AgreementsController.#ctor(AutoMapper.IMapper,Integration.BLL.Contracts.IAgreementsService)">
+            <summary>
+            Agreements db api
+            </summary>
+            <param name="mapper"></param>
+            <param name="agreementsService"></param>
+        </member>
+        <member name="M:Integration.API.Controllers.AgreementsController.CreateAgreementAsync(Integration.API.Models.Agreement)">
+            <summary>
+            Create a new agreement
+            </summary>
+            <param name="agreement"></param>
+            <returns>Returns created agreement</returns>           
+        </member>
+        <member name="M:Integration.API.Controllers.AgreementsController.GetAgreementAsync(System.Guid)">
+            <summary>
+            Get agreement by id
+            </summary>
+            <param name="id">Agreement Id</param>
+            <returns>Returns finded agreement</returns>
+        </member>
+        <member name="M:Integration.API.Controllers.AgreementsController.UpdateAgreementAsync(System.Guid,Integration.API.Models.Agreement)">
+            <summary>
+            Update existing agreement
+            </summary>
+            <param name="id">Agreement id</param>
+            <param name="agreement">Agreement parameters</param>
+            <returns></returns>
+        </member>
+        <member name="M:Integration.API.Controllers.AgreementsController.DeleteAgreementAsync(System.Guid)">
+            <summary>
+            Delete agreement
+            </summary>
+            <param name="id">Agreement id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Integration.API.Controllers.AgreementsController.GetAgreementsListAsync(System.Int32,System.Int32)">
+            <summary>
+            Get agreements list
+            </summary>
+            <param name="pageNumber">Page number</param>
+            <param name="pageSize">Page size</param>
+            <returns></returns>
+        </member>
+        <member name="M:Integration.API.Controllers.TokenController.GenerateToken">
+            <summary>
+            Generate sample token
+            </summary>       
+            <returns>Generated token</returns>        
+        </member>
+        <member name="M:Integration.API.Controllers.TokenController.ValidateToken(System.String)">
+            <summary>
+            Validate sample token
+            </summary>
+            <param name="token">Token for validation</param>
+            <returns>Token validation status</returns>        
+        </member>
+    </members>
+</doc>

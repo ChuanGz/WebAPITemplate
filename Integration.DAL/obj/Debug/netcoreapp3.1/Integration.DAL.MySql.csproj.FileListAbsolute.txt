@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL.MySql\bin\Debug\netcoreapp3.1\Integration.DAL.MySql.deps.json
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL.MySql\bin\Debug\netcoreapp3.1\Integration.DAL.MySql.dll
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL.MySql\bin\Debug\netcoreapp3.1\Integration.DAL.MySql.pdb
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL.MySql\obj\Debug\netcoreapp3.1\Integration.DAL.MySql.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL.MySql\obj\Debug\netcoreapp3.1\Integration.DAL.MySql.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL.MySql\obj\Debug\netcoreapp3.1\Integration.DAL.MySql.AssemblyInfo.cs
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL.MySql\obj\Debug\netcoreapp3.1\Integration.DAL.MySql.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL.MySql\obj\Debug\netcoreapp3.1\Integration.DAL.MySql.dll
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL.MySql\obj\Debug\netcoreapp3.1\Integration.DAL.MySql.pdb

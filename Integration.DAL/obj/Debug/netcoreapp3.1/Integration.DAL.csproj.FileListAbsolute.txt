@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL\bin\Debug\netcoreapp3.1\Integration.DAL.deps.json
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL\bin\Debug\netcoreapp3.1\Integration.DAL.dll
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL\obj\Debug\netcoreapp3.1\Integration.DAL.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL\obj\Debug\netcoreapp3.1\Integration.DAL.AssemblyInfo.cs
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL\bin\Debug\netcoreapp3.1\Integration.DAL.pdb
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL\obj\Debug\netcoreapp3.1\Integration.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL\obj\Debug\netcoreapp3.1\Integration.DAL.dll
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.DAL\obj\Debug\netcoreapp3.1\Integration.DAL.pdb

@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.Configuration\bin\Debug\netcoreapp3.1\Integration.Configuration.deps.json
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.Configuration\bin\Debug\netcoreapp3.1\Integration.Configuration.dll
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.Configuration\bin\Debug\netcoreapp3.1\Integration.Configuration.pdb
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.Configuration\bin\Debug\netcoreapp3.1\Integration.BLL.dll
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.Configuration\bin\Debug\netcoreapp3.1\Integration.BLL.pdb
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.Configuration\obj\Debug\netcoreapp3.1\Integration.Configuration.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.Configuration\obj\Debug\netcoreapp3.1\Integration.Configuration.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.Configuration\obj\Debug\netcoreapp3.1\Integration.Configuration.AssemblyInfo.cs
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.Configuration\obj\Debug\netcoreapp3.1\Integration.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.Configuration\obj\Debug\netcoreapp3.1\Integration.Configuration.csproj.CopyComplete
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.Configuration\obj\Debug\netcoreapp3.1\Integration.Configuration.dll
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.Configuration\obj\Debug\netcoreapp3.1\Integration.Configuration.pdb
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.Configuration\bin\Debug\netcoreapp3.1\Integration.DAL.dll
+C:\Users\admin\Desktop\ts\tpg\Integration\Integration.Configuration\bin\Debug\netcoreapp3.1\Integration.DAL.pdb
